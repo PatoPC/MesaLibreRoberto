@@ -1,0 +1,6 @@
+userDBMesaLibre
+M3s4Libr32017@
+
+ModeloDBMesaLibre
+
+Servidor Casa: DESKTOP-8VHFEIR\SQLSERVER2012
